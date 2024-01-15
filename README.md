@@ -1,4 +1,4 @@
-£ CRM
+# CRM
 CRM, short for "Customer Relationship Management," is the concept of effectively managing the communication between businesses and their customers. The goal is to strengthen customer satisfaction by adopting a customer-centric approach, acquiring new customers, and retaining existing ones while also increasing the profitability of the business. In the world of CRM, various CRM applications are used to achieve this goal. These include customer lifecycle optimizations, communication through various campaigns and digital marketing, efforts to acquire customers through promotions, customer retention strategies, cross-selling, up-selling efforts, customer segmentation activities, and more. The overall aim is to make the entire customer relationship process more efficient based on data-driven strategies. These are strategic efforts implemented to acquire more customers and profits with less time and effort.
 
 ## So What is the RFM ?
